@@ -17,7 +17,7 @@ Cervero, R. "Creating a Linear City with a Surface Metro: The Story of Curitiba,
 
 Corbett, Judy, and Paul Zylofsky, eds. _Building Livable Communities: A Policymaker's Guide to Transit-oriented Development_. Sacramento, CA: The Center for Livable Communities, 1999.
 
-Ewing, Reid. _Pedestrian and Transit-Friendly Design: A Primer for Smart Growth_. Washington, DC: International City/County Management Association and Smart Growth Network, 1999. ({{% resource_link "179aa04e-8a18-4c55-b252-3bcf0bc18cef" "PDF - 2.8 MB" %}})
+Ewing, Reid. _Pedestrian and Transit-Friendly Design: A Primer for Smart Growth_. Washington, DC: International City/County Management Association and Smart Growth Network, 1999. ([PDF - 2.8 MB](http://www.epa.gov/dced/pdf/ptfd_primer.pdf))
 
 Fingerhuth, Carl, and Ernst Joos. _The Kunming Project: Urban Development in China: a Dialogue_. Boston, MA: Birkhauser, 2002. ISBN: 3764367423.
 
